@@ -10,6 +10,7 @@ namespace MY_C_
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello");
             MathApp.Run(args);
             App.Run(args);
         }
